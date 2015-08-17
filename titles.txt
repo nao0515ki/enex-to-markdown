@@ -1,0 +1,358 @@
+SparkFun Guide to Arduino | No Starch Press
+Hacking the Cable Modem | No Starch Press
+Arduino Workshop | No Starch Press
+GNU Make Book | No Starch Press
+Autotools | No Starch Press
+PGP & GPG | No Starch Press
+Learn You Some Erlang for Great Good! | No Starch Press
+Learn You a Haskell for Great Good! | No Starch Press
+Clojure for the Brave and True | No Starch Press
+Book of Ruby | No Starch Press
+Two Books You Must Read If You Care About the Future of Humanity in Space
+Mundane Clojure for Mortals: Let's build a Web API
+matthiasn/Clojure-Resources
+peterschwarz/clj-gpio
+Is it vulnerable? - appCanary
+Adafruit HUZZAH ESP8266 Breakout ID: 2471 - $9.95 : Adafruit Industries, Unique & fun DIY electronics and kits
+Western Digital 1TB External Drive ( My Passport form factor )
+trolley bags reusable green grocery shopping
+PeaceMaker Coin Wrap
+2015 Men's AK-47
+Popular items for laptop stickers on Etsy
+Laptop Skin - From the Deep by FP
+Laptop Skin - Bears Hate Math by FP
+Tindie is a marketplace for maker made products.
+$40 Antenna Analyzer with Arduino and AD9850
+WiFi Serial Transceiver Module w/ ESP8266 – Hackaday Store
+ESP8266 Adapter and Breakout Board Kit (Includes ESP8266-01) - DIY – Hackaday Store
+ESP8266 Module w/u.FL + Chip Antenna (incl mating cable + antenna) – Hackaday Store
+Serial 8-digit 7-segment LED display (Blue) by Embedded Lab
+ATtiny85 / ATtiny13 development board by Bot Thoughts Llc
+MyGeiger ver.2 DIY Geiger Counter Kit with USB LCD by Rh Electronics
+An Ode To The Most Amazing Riding Suit Ever Made
+Engineer PZ-58 Screw Pliers GT (japan import), Tools & Home Improvement - Amazon Canada
+This Week's Comics: A Broken Man Is Humanity's Hope For First Contact
+Clojure | Taoensso.com
+Apache ZooKeeper - Home
+Untitled note
+rkh/yard-sinatra
+Lookout Hackers Blog
+standalone sinatra jar with jruby
+​How To Build Your Own Altoids Tin Survival Kit
+​Build Your Own First Aid Kit, It Might Save Your Life
+Arduino anti-theft alarm shield
+Catalogue, Orders, and Order Tracking
+Netty: Home
+Finagle
+10 Subversive Princess Stories That Are The Perfect Antidote To Disney
+How to Build a Raspberry Pi Jukebox Any Non-Geek Can Use
+A modern and Open Source Web client for XMPP | Kaiwa
+​How To Drive Off-Road
+How I Turned My Subaru Outback Into A Real Adventuremobile
+Mini Arc Furnace Melts Its Way Into Our Hearts
+Shirt Printing With Freezer Paper
+20 Essential Books About the Next Step in Human Evolution
+Glow-in-the-dark patterns burned into electrocuted wood
+Neal Stephenson's Seveneves: five thousand years of apocalypse and rebirth
+Sculpting with Polymer Clay
+Character and Creature Design Notes: Sculpting a Maquette with Tony Cipriano: Part One
+Make an Armature for Sculpting!
+KitBuilders - Sculpting an Angel
+Tested Lessons: Basic Animatronics, Part 1 - Tested.com
+The Monument Was Striking, But It Required A Ton Of Power To Maintain
+Printrbot Simple Kit | Printrbot
+Subscription Plans | Stan Winston School of Character Arts
+How To Tie The Only Five Knots You'll Ever Need
+An Intermediate's Guide to Getting More Out of Mint
+CREATING A FIGURE ARMATURE FOR SCULPTURE
+Sculpting tabletop and display miniatures
+I want to sculpt small statues using Super Sculpey. How do I make a foundation? • /r/learnart
+Excellent and exceedingly gruesome makeup tutorials
+Here's the Most Effective Cardio Workout You Can Do in 15 Minutes
+Super Sculpey- Sculpting a Creature Bust
+Complete DIY Raspberry Pi Weather Station with Software
+The Planck Keyboard - an ortholinear 40% keyboard with ergonomic thumb placement
+Mendelmax 2 Reprap 3D Printer Fastener Kit FREE Shipping
+Untitled note
+The Mechanical Is One Of The Coolest Books About Free Will Ever Written
+Starcraft 2 - Kerrigan's Ghost Rifle prop - Punished Props
+Concept Art Writing Prompt: NASA Down
+T Nuts M5 M3 3D Printer Parts MendelMax 2, 20x20 aluminum extrusion 5&3mm tnuts
+Mendel Max 2.0 DIY Kit - Hardware Only
+Mendelmax 2 Reprap 3D Printer Fastener Kit FREE Shipping
+Untitled note
+MendelMax 2.0 DELUXE KIT - Aluminum complete set ++ Printed parts
+Smooth Rods Shaft 370mm Trapezoidal Screw Tr10x2, 310mm, MendelMax 2.0 + 2x nut
+mendelmax pulley | eBay
+Character Creation Training & Special Effects Tutorials From the Masters of Monster Making
+How To Write An SCP - SCP Foundation
+Mechawhale by Hauke Scheer - Massdrop
+Proof: The Science of Booze: Adam Rogers: 9780547897967: Amazon.com: Books
+HoneyLove.org | Urban Beekeepers
+The Honeybee Conservancy » Plant a Bee Garden
+The Subprimes: a novel of the Piketty/Klein apocalypse
+Volpin Props | Cael Hammer, Bastion
+Pressure Casting-Grizzly Paint Pot Conversion
+Grizzly.com® --
+Amazon.com: The Prop Builder's Molding & Casting Handbook (9781558701281): Thurston James: Books
+Tested - Zoidberg Project
+Welcome to the Devil's Workshop Guide to Making Monster Masks
+Welcome to the Devil's Workshop Guide to Making Monster Masks
+Welcome to the Devil's Workshop Guide to Making Monster Masks
+Welcome to the Devil's Workshop Guide to Making Monster Masks
+Welcome to the Devil's Workshop Guide to Making Monster Masks
+U STAR Multi Purpose Precision Dual Action Gravity Feed Airbrush S 150, 0.5mm Nozzle,  Putty Airbrush, Leather Handle-in Spray Gun from Home Improvement on Aliexpress.com | Alibaba Group
+AC mini air compressor TC20, portable Airbrush Compressor for painting tatoo, water iron remove-in Air-Compressors from Industry & Business on Aliexpress.com | Alibaba Group
+Brand New High Quality Airbrush Compressor AIR PRESSURE REGULATOR Gauge Water Trap Moisture Filter Hose-in Air-Compressors from Industry & Business on Aliexpress.com | Alibaba Group
+synthetos/TinyG
+CNC : Adafruit Industries, Unique & fun DIY electronics and kits
+Products – Uberclock
+Five Pegboard Alternatives That Make Storing Your Tools a Cinch
+Barcode Reader/Scanner Module - CCD Camera - USB Interface ID: 1203 - $69.95 : Adafruit Industries, Unique & fun DIY electronics and kits
+Raspberry Pi • View topic - Wall mounted price checker with Raspberry Pi
+The 10 Slides You Need to Pitch Your Business Idea
+3D Printed Molds and Silicone Caulking
+rust & weathering beginner kit? - Model Building Questions and Answers
+Amazon.com: Rust Testors Enamel Plastic Model Paint [Toy]: Toys & Games
+Rust in Peace - How to make any plastic object into a realistic rusty detail part, the SMARTT way!
+MendelMax 2 - RepRapWiki
+RepRapPro Mendel - RepRapWiki
+List of Firmware - RepRapWiki
+Kali Linux Downloads
+The Basics of 3D Printing in 2015 - from someone with 16 WHOLE HOURS' experience - Scott Hanselman
+Useful Ham Radio Go-Kits projects - The DXZone
+SimpleTax: Free Canadian Tax Return Software
+openHAB - empowering the smart home
+Enter the complex world of SDR
+SatNOGS - Global Network of Ground Stations
+Building A Software Defined Radio With A Teensy
+Cinefex | The Journal of Cinematic Illusions
+D&D Starter Set Adventure Maps
+CSS Reference | Codrops
+Jumpstart Your Journaling: A 31-Day Challenge
+Airport Detail: YVR | LiveATC.net
+Lumoid.com. Rent and buy amazing gadgets - cameras, lenses, wearables, fitness gear, drones and more!
+How to use Trello like a pro
+Templates (templates) | Trello
+Inspiring Boards (inspiringboards) | Trello
+Board of Templates | Trello
+Ingenious Dungeon Master Projects A Digital Map To Play Tabletop RPGs
+Untitled note
+hubot-mail-notifier
+Why Blacksmiths are Better at Startups than You | Unicornfree with Amy Hoy: Creating And Selling Your Own Products
+mcbess 2D
+Project JeePi – Raspberry Pi Car Computer! | PS C:\TechJeeper>
+debian - How can I set up a print server? - Raspberry Pi Stack Exchange
+ITT 24VDC Pulse Event Counter | eBay
+24VDC Pulse Counter Panel Mount 6 Digit Totalizer | eBay
+Geeknote - Evernote console client for Linux, FreeBSD, OS X
+Pi MusicBox - A Spotify, SoundCloud, Google Music player for the Raspberry Pi, with remote control
+A Confederacy of Dunces - Wikipedia, the free encyclopedia
+HoBSoft - Animation Production Systems
+css-tricks.com
+Jasper | Control everything with your voice
+ngrok - secure introspectable tunnels to localhost
+Kill Time Making Flappy Bird, Not Playing It | Hackaday
+Scouting Knots | How to Tie Scouting Knots | Animated Scouting Knots
+Arduino Playground - MFRC522
+Accept Payments Online | Mobile Payments Made Easy | Braintree
+jwiegley/use-package
+New Website! ➜ Paul Dowman
+appearance - How do I get a fancier mode line that uses solid colors and triangles? - Emacs Stack Exchange
+Resources for new Go programmers | Dave Cheney
+Frontmatter | Go Bootcamp | Softcover.io
+Become a Programmer, Motherfucker
+Learn Ruby The Hard Way
+Resizing and Cropping Images with Canvas | Codrops
+Sliding Header Layout | Codrops
+Making SVGs Responsive with CSS
+Notification Styles Inspiration | Top Bar Slide
+Inspiration for Article Intro Effects | Demo 1
+How to Create a Circular Progress Button
+How To Make The Mini Metal Foundry
+An Introduction to Programming in Go
+Using Emacs with Clojure | Clojure for the Brave and True
+AA9PW FCC Exam Practice » Morse Code Practice
+Robot Peanut Studios - Starter Game & Deals
+N O D E
+Ledr Tool Roll | Brown | Onehundred
+Parrot - Flower Power - intelligent wireless sensor for your plants
+Discover TrackIf - TrackIf
+NFC Stickers, Software, Products, and more since 2011 – tagstand
+NFC STICKERS
+NETATMO WEATHER STATION
+Official SmartThings Shop - Buy Starter Kits, Hubs, Solutions, and popular smart home products
+Official SmartThings Shop - Buy Starter Kits, Hubs, Solutions, and popular smart home products
+Stripe
+Fitbit
+Repeaters within 25 kilometers of 5450 Empire Drive,Burnaby,BC
+Greater Vancouver County, British Columbia (BC) Scanner Frequencies and Radio Frequency Reference
+ttyrec - Record and Playback Terminal Session - Linux CLI - YouTube
+With War Dogs, Greg Bear Takes Military SF To Some Very Strange Places
+Embedded Systems Course| edX
+Membership - Burnaby Amateur Radio Club
+Hammock Camping 101 - The Ultimate Hang
+bladeRF
+How to Control a Ton of RGB LEDs with Arduino & TLC5940 - YouTube
+How Shift Registers Work - Build the Test Circuit! - YouTube
+Buy Open Parts Library-Basic V2 [KIT01900M] | Seeedstudio
+New Arrivals : Seeed Studio Bazaar, Boost ideas, Extend the Reach
+Electronics Poster v1 (with original photos) | Built By Ben
+Transistor Clock
+Deltaprintr 3D Printer Kit - Deltaprintr
+Home Page - Burnaby Amateur Radio Club
+Inductance Calculations: Circular Loop
+TUIO - Multitouch Surface Library
+donjon; RPG Tools
+coderwall.com : establishing geek cred since 1305712800
+Mastering Emacs
+DIY CNC
+Wide-band WebSDR in JO32KF
+St. Optimus of Prime - Imgur
+Electromechanical - Pulse Counters - Counting Technology - Products - Kübler Groupusa
+Panel Instrumentation - Counters | Panel Displays & Instrumentation | Newark element14 Canada
+Counters | Electromechanical Counters | Product Catalog Search Results | Galco Industrial Electronics
+Mechanical Counters
+NooElec - 2.5MSPS Portable miniDDS Digital Function Generator & Servo Controller with Paneled Exterior
+Documentation - Hoxy
+PiUi – control your Pi with your phone | Raspberry Pi
+Overview | Raspberry Pi E-mail Notifier Using LEDs | Adafruit Learning System
+SylvanSport GO | Lightweight, Small Pop Up Campers - Camping Trailer
+Sacha Chua's Emacs configuration
+Koa - next generation web framework for node.js
+Printstagram
+Create your Icon Font in seconds - 9000 Vector Icons Available - Free Icon Font Generator
+Products
+Q2
+Heatit
+Why I use zsh instead of bash (January 23, 2014)
+Controlling a Lock with an Arduino and Bluetooth LE | MAKE
+LensRentals.com - Rent Lenses and Cameras from Canon, Nikon, Olympus, Sony, Leica, and more
+Rent professional cameras or camera lenses for Canon, Nikon, Sony, Olympus, Leica and Pentax
+Home Alarm System project - PrivateEyePi Project
+Hike to Elsay Lake
+Tern
+simpl.info
+Pi MusicBox - A Spotify, SoundCloud, Google Music player for the Raspberry Pi, with remote control
+Shop All Tiny Circuits
+Ramsey Aircraft Receiver Circuit Kit AR1C
+data.sparkfun.com
+Multithread.js
+Magic Mirror
+Is the best PCB etchant in every kitchen ?
+Strava Developer API
+How to Turn a Raspberry Pi Into a Private Streaming Music Service
+patshaughnessy.net
+Cooking Hacks - Documentation - Geiger Counter - Radiation Sensor Board for Raspberry Pi tutorial
+Serial Monitor Without a PC | Hackaday
+Designing a Front Panel for a DIY Project | Hackaday
+Managing buffer madness? : emacs
+Track Errors with Google Analytics
+Automated Bed Leveling For 3D Printers Is Now Solved | Hackaday
+Roll Your Own VPN with a Raspberry Pi and OpenVPN
+Save Packing Space by Folding Your Socks Like an Army Ranger
+How to Fit Two Weeks Worth of Luggage Under the Airplane Seat in Front of You
+MightyText | Install MightyText
+​Everything You Ever Wanted To Know About Motorcycle Safety Gear
+Reserve America Lets You Find and Reserve Campsites
+​How To Make The Outdoors Comfortable And Easy For First Timers
+Homebrew NSA Bugs | Hackaday
+The World's Most Fascinating Places, As Seen In Science Fiction Books
+Solar Powered DIY Plant Watering System | Hackaday
+Quick and Dirty RFID Door Locks Clean up Nice | Hackaday
+Blacksmithing 101: How to Make a Forge and Start Hammering Metal - Popular Mechanics
+www.artofmanliness.com
+Overview | A REST API for Arduino & the CC3000 WiFi Chip | Adafruit Learning System
+Knife & Tool Care
+A romantic road trip down Rt-1 in California's Big Sur | Road Trip - Discover Your America with Roadtrippers
+PICAN CAN-Bus Board for Raspberry Pi [RSP-PICAN] - £26.90 : SK Pang Electronics, Arduino, Sparkfun, GPS, GSM
+Hacking the Jeep Interior CAN-Bus | Chad Gibbons' Blog
+A Simple Tool Roll
+Brake drum blacksmith forge
+Documentary Photography and Photojournalism: Still Images of a World in Motion | Writing and Humanistic Studies | MIT OpenCourseWare
+Magnum - C++11 and OpenGL graphics engine | the place of mosra
+USB Devices - Google Chrome
+The "dirt cheap" (literally) guide to forging a knife - Imgur
+Apprenticeships in Blacksmithing
+anvilfire FAQs (Frequently Asked Questions)
+Your First Blacksmith Project: Crafting Tongs - Hobby Farms
+Rockforge | Cross Pein Hammer with Fiberglass Handle - 4lb | Home Depot Canada
+The Spark Test and Spark Testing Metals | Scrap Metal Junkie
+Blacksmith Swap Meet 2014 :: Northwest Blacksmith Association
+Build Your Own Blacksmith Forge
+craigslist | Page Not Found
+Blacksmithing Coal | Thak Ironworks
+How to Get More Referrals Than You Can Handle
+Remote Jobs: Design, Programming, Rails, Executive, and more.
+Leanne Brown
+asciinema - Record and share your terminal sessions, the right way
+Gnus part 1 - EmacsMovies.org
+About « The Tinusaur
+Product Catalog and Ordering
+Awesome Emacs | Irreal
+Which Three Lenses do You Need for Photography?
+Upgrade Your Playstation 4 (Or 3) With A Solid State Drive
+DIY Smart Thermostat - Projects
+Arduino + Raspberry Pi Thermostat and Zone Control -- Need Guidance
+Thermostat signals and wiring - Transwiki
+Wire A Thermostat
+How Can I Get Started with Home Automation?
+Outdoor Sleeping Pad Comparison Data
+​Everything You Ever Wanted To Know About Outdoor Sleeping Pads
+The Current State of Smart Locks
+Reupholster a Chair, Part One: The Teardown
+DailyJS: Easier OAuth with Grant
+​The Best Sleeping Pad For Every Camper
+PeerJS - Simple peer-to-peer with WebRTC
+Slowy app | Real-world connection simulator and bandwidth limiter
+genome.js
+Javascript Shopping Cart - simpleCart(js)
+Auto Scroll Lock Header with jQuery
+Design Patterns & Refactoring
+What configurations should be put or avoided being put into. emacs? : emacs
+Yubikey NEO Setup
+DailyJS: Mermaid: Like Markdown for Diagrams
+How To Use GPG to Encrypt and Sign Messages on an Ubuntu 12.04 VPS | DigitalOcean
+Encrypting and decrypting files with GnuPG - TechRepublic
+GPG Quick Start
+Offline GnuPG Master Key and Subkeys on YubiKey NEO Smartcard | Simon Josefsson's blog
+Linux ADS-B Decoding and gqrx Software Defined Radio - www.LandofLinux.com
+FUNcube Dongle | A radio that's out of this world!
+Postfix + multiple relayhosts - HowtoForge Forums | HowtoForge - Linux Howtos and Tutorials
+SDRSPACE.com
+HOWTO: SSH Tunneling Made Easy
+Card scanning over webcam pt 3 - Card Identification - YouTube
+DriveThruRPG.com - The Largest RPG Download Store!
+Going Paperless Links
+Emacs packages | Julien Danjou
+Turning a old Hammer in to an Adze by Blacksmithing - YouTube
+Traditional Blacksmithing of a Rams Head Poker - YouTube
+Railroad spike projects - YouTube
+Forge Welding Railroad Spike | Plant Hanger Project - YouTube
+BLACKSMITHING - Forging tongs Step By Step How to - YouTube
+Making Tongs with Bill Epps - YouTube
+Box jaw tongs for the blacksmith - YouTube
+Forging Blacksmith Tongs fast and easy Quick Tongs by Ken Zitur - YouTube
+Web Developer / Ultrarunner Erik August Johnson - Trail Running & Road Traveling
+Become a Locksmith - Mr Locksmith
+Sensu | The open source monitoring framework.
+Homepage of Zabbix :: An Enterprise-Class Open Source Distributed Monitoring Solution
+Flapjack, monitoring notification routing + event processing
+10+ Deploys Per Day: Dev and Ops Cooperation at Flickr
+Practical guide to StatsD/Graphite monitoring - Matt Aimonetti
+How To Configure StatsD to Collect Arbitrary Stats for Graphite on Ubuntu 14.04 | DigitalOcean
+Operations Performance Management
+pkgr : Package your Ruby (Rails, Sinatra, etc.) / NodeJS / Go app into deb or rpm packages on Debian, Ubuntu, CentOS, Fedora
+Automation and Monitoring… by Tomas Varaneckas [PDF/iPad/Kindle]
+EmacsWiki: Gnus Biff
+Frequently Asked Questions: FAQ 5 - Composing messages
+Fishing Knots
+Here's the recipe to set Caps Lock as Control and set other modifier keys on…
+How to order | FlipDots.com
+Strategies Games - Board Games Chaos in the Old World Fantasy Flight Games
+Warehouse 23 - Toon
+23andMe Canada - DNA Genetic Testing & Analysis
+I Rolled A Zero: Properly Ordered Posts
+Fantasy Paper Miniature Models
+(100+) paper miniatures | Tumblr
+M3-ATX, intelligent ATX automotive power supply, 12/24V - power your PC in a car

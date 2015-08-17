@@ -4,7 +4,7 @@ require 'pry'
 
 def titles(file = './notes.enex')
   parsed = Nokogiri::XML File.read file
-  parsed.xpath('//title').map(&:content).map(&:shellescape)
+  parsed.xpath('//title').map(&:content)
 end
 
 def content(note_title)
@@ -20,7 +20,7 @@ end
 
 def output_note(note_title)
   return unless note_exists?(note_title)
-  filename = "./notes/#{note_title.gsub '/', '_'}.txt"
+  filename = "./notes/#{note_title.gsub('/', '_')}.txt"
   puts "Outputting '#{note_title}'"
   content(note_title) do |io|
     File.open(filename, 'w') do |file|
@@ -53,8 +53,8 @@ end
 
 def run
   puts "There are #{titles.count} notes to migrate."
-  output_note titles.first
-  delete titles.first
+  output_note titles.last
+  delete titles.last
   # titles.each do |title|
   #   output_note title
   #   delete title
