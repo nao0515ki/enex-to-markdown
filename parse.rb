@@ -1,64 +1,73 @@
 require 'nokogiri'
-require 'shellwords'
+require 'reverse_markdown'
+require 'date'
 require 'pry'
 
-def titles(file = './notes.enex')
+def parse
+  file = './notes.enex'
   parsed = Nokogiri::XML File.read file
-  parsed.xpath('//title').map(&:content)
-end
 
-def content(note_title)
-  command = "/usr/local/bin/geeknote show '#{note_title}'"
-  IO.popen(command, err: [:child, :out]) do |io|
-    yield io
-  end
-end
+  notes = parsed.xpath '//note'
 
-def ignore_lines
-  ["/usr/local/lib/python2.7/dist-packages/beautifulsoup4-4.4.0-py2.7.egg/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system (\"lxml\"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.\n", "\n", "To get rid of this warning, change this:\n", "\n", " BeautifulSoup([your markup])\n", "\n", "to this:\n", "\n", " BeautifulSoup([your markup], \"lxml\")\n"]
-end
-
-def output_note(note_title)
-  return unless note_exists?(note_title)
-  filename = "./notes/#{note_title.gsub('/', '_')}.txt"
-  puts "Outputting '#{note_title}'"
-  content(note_title) do |io|
-    File.open(filename, 'w') do |file|
-      lines = (io.readlines - ignore_lines).join ''
-      file.write lines
+  notes.map do |note|
+    title = note.children.search('title').first.content
+    content = note.children.search('content').first
+    content = Nokogiri::XML(content.content).xpath('//div')
+    if content.empty?
+      content = note.children.search('content').first
+      content = Nokogiri::XML(content.content).content
+    else
+      content = content.last.content
     end
+
+    tags = note.children.search('tag').map(&:content)
+    time = note.children.search('created').first.content
+    time = DateTime.parse
+
+    source = note.search('note-attributes').first.search('source-url')
+    source = source.first.content unless source.empty?
+
+    content = <<-END
+#{title}
+====================
+Created At: #{time}
+URL: #{source}
+Tags: #{tags.join ','}
+
+#{content}
+END
+
+    { title: title, content: content, note: note }
   end
 end
 
-def note_exists?(note_title)
-  command = "/usr/local/bin/geeknote find --search '#{note_title}'"
-  found = true
-  IO.popen(command, err: [:child, :out]) do |io|
-    out = io.readlines.join ''
-    found = out.match(/Notes have not been found/).nil?
+def output_note(note)
+  title = note[:title].gsub '/', "__"
+  title = title[0..50] if title.length > 100
+  file = "./notes/#{title}.txt"
+  File.open(file, 'w') do |f|
+    f.write note[:content]
   end
-  found
 end
 
 def delete(note_title)
-  return unless note_exists?(note_title)
   puts "Deleting '#{note_title}'"
-  command = "/usr/local/bin/geeknote remove --note \"#{note_title}\""
-  IO.popen(command, 'r+', err: [:child, :out]) do |io|
-    io.puts 'Yes'
-    puts io.readlines
-  end
+  # command = "/usr/local/bin/geeknote remove --note \"#{note_title}\""
+  # IO.popen(command, 'r+', err: [:child, :out]) do |io|
+  #   io.puts 'Yes'
+  #   puts io.readlines
+  # end
   puts "Finished deleting #{note_title}"
 end
 
 def run
-  puts "There are #{titles.count} notes to migrate."
-  output_note titles.last
-  delete titles.last
-  # titles.each do |title|
-  #   output_note title
-  #   delete title
-  # end
+  notes = parse
+  puts "There are #{notes.count} notes to migrate."
+
+  notes.each do |note|
+    output_note note
+    delete note[:title]
+  end
   puts 'All done migrating notes.'
 end
 
