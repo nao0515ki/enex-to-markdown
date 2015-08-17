@@ -1,0 +1,12 @@
+################## TITLE ##################
+Learn You a Haskell for Great Good! | No Starch Press
+=================== META ==================
+Created: 17.01.1970     
+Updated: 17.01.1970     
+sourceURL: https://www.nostarch.com/lyah.htm
+source: web.clip
+----------------- CONTENT -----------------
+Tags: programming, coding, book to get, wishlist, nostarch, haskell
+Learn You a Haskell for Great Good! | No Starch Press
+<https://www.nostarch.com/lyah.htm>
+Look inside! A Beginner's Guide by Miran Lipovača April 2011, 400 pp. ISBN: 978-1-59327-283-8 $44.95 Print Book and FREE Ebook $35.95 Ebook (PDF, Mobi, and ePub) Contents | Reviews | Updates Download Chapter 5: "Higher-Order Functions" See a listing of errata at the book's companion website It's all in the name: Learn You a Haskell for Great Good! is a hilarious, illustrated guide to this complex functional language. Packed with the author's original artwork, pop culture references, and most im...

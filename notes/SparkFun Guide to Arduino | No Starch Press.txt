@@ -1,0 +1,12 @@
+################## TITLE ##################
+SparkFun Guide to Arduino | No Starch Press
+=================== META ==================
+Created: 17.01.1970     
+Updated: 17.01.1970     
+sourceURL: https://www.nostarch.com/sparkfunarduino
+source: web.clip
+----------------- CONTENT -----------------
+Tags: book, arduino, coding, sparkfun, book to get, wishlist, nostarch
+SparkFun Guide to Arduino | No Starch Press
+<https://www.nostarch.com/sparkfunarduino>
+by Derek Runberg &amp; Brian Huang February 2016, 200 pp. ISBN: 978-1-59327-652-2 Full Color Coming February 2016. Subscribe to our newsletter and we'll email you when it's available. Contents | Reviews | Updates With Arduino, you can build any hardware project you can imagine. This open-source platform is designed to help total beginners explore electronics, and with its easy-to-learn programming language, you can collect data about the world around you to make something truly interactive. The Spa...

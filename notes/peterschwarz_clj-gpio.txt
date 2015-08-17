@@ -1,0 +1,12 @@
+################## TITLE ##################
+peterschwarz/clj-gpio
+=================== META ==================
+Created: 17.01.1970     
+Updated: 17.01.1970     
+sourceURL: https://github.com/peterschwarz/clj-gpio
+source: web.clip
+----------------- CONTENT -----------------
+Tags: programming, clojure, repository, coding, code
+peterschwarz/clj-gpio
+<https://github.com/peterschwarz/clj-gpio>
+clj-gpio - A basic library for reading, writing and watching GPIO signals on a Raspberry PI, in a REPL-friendly way.

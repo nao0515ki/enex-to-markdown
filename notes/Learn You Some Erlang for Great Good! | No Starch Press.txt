@@ -1,0 +1,12 @@
+################## TITLE ##################
+Learn You Some Erlang for Great Good! | No Starch Press
+=================== META ==================
+Created: 17.01.1970     
+Updated: 17.01.1970     
+sourceURL: https://www.nostarch.com/erlang
+source: web.clip
+----------------- CONTENT -----------------
+Tags: programming, coding, book to get, wishlist, nostarch, erlang
+Learn You Some Erlang for Great Good! | No Starch Press
+<https://www.nostarch.com/erlang>
+A Beginner's Guide by Fred Hebert January 2013, 624 pp. ISBN: 978-1-59327-435-1 $49.95 Print Book and FREE Ebook $39.95 Ebook (PDF, Mobi, and ePub) Contents | Reviews | Updates Download Chapter 6: "Higher-Order Functions" (PDF) "I hope that many of you will enjoy reading Fred’s book as much as I did and that you find learning Erlang to be an agreeable and thought-provoking process." — Joe Armstrong, designer of Erlang "I like this book. It's a complete description of the Erlang language togethe...

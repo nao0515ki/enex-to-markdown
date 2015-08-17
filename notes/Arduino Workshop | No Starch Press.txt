@@ -1,0 +1,12 @@
+################## TITLE ##################
+Arduino Workshop | No Starch Press
+=================== META ==================
+Created: 17.01.1970     
+Updated: 17.01.1970     
+sourceURL: https://www.nostarch.com/arduino
+source: web.clip
+----------------- CONTENT -----------------
+Tags: book, arduino, coding, book to get, wishlist, nostarch
+Arduino Workshop | No Starch Press
+<https://www.nostarch.com/arduino>
+A Hands-On Introduction with 65 Projects by John Boxall May 2013, 392 pp. ISBN: 978-1-59327-448-1 $29.95 Print Book and FREE Ebook $23.95 Ebook (PDF, Mobi, and ePub) Contents | Reviews | Updates Featured on Boing Boing ( Read More ) Featured on Popular Mechanics ( Read More ) Download Chapter 4: "Building Blocks" (PDF) Download the code for the projects in the book The Arduino is a cheap, flexible, open source microcontroller platform designed to make it easy for hobbyists to use electronics in...

@@ -1,0 +1,12 @@
+################## TITLE ##################
+Book of Ruby | No Starch Press
+=================== META ==================
+Created: 17.01.1970     
+Updated: 17.01.1970     
+sourceURL: https://www.nostarch.com/ruby
+source: web.clip
+----------------- CONTENT -----------------
+Tags: programming, ruby, coding, book to get, wishlist, nostarch
+Book of Ruby | No Starch Press
+<https://www.nostarch.com/ruby>
+A Hands-On Guide for the Adventurous by Huw Collingbourne July 2011, 400 pp. ISBN: 978-1-59327-294-4 $39.95 Print Book and FREE Ebook $31.95 Ebook (PDF, Mobi, and ePub) Contents | Reviews | Updates Download Chapter 11: "Symbols" Download the code from the book Download a List of Resources Mentioned in the Book Ruby is famous for being easy to learn, but most users only scratch the surface of what it can do. While other books focus on Ruby's trendier features, The Book of Ruby reveals the secret...

@@ -1,0 +1,12 @@
+################## TITLE ##################
+matthiasn/Clojure-Resources
+=================== META ==================
+Created: 17.01.1970     
+Updated: 17.01.1970     
+sourceURL: https://github.com/matthiasn/Clojure-Resources
+source: web.clip
+----------------- CONTENT -----------------
+Tags: programming, clojure, coding, code
+matthiasn/Clojure-Resources
+<https://github.com/matthiasn/Clojure-Resources>
+Clojure-Resources - Compilation of useful links and resources for learning Clojure and ClojureScript
