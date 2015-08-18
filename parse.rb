@@ -4,20 +4,20 @@ require 'date'
 require 'pry'
 
 def first(note)
-  Nokogiri::XML(
+  value = Nokogiri::XML(
                 note.children.search('content').first
-  ).xpath('//div')
+               ).xpath('//div')
+  return if value.empty?
+  ReverseMarkdown.convert(value.last.to_html)
 end
 
 def content(note)
-  content = first(note)
-  return ReverseMarkdown.convert(content.last.to_html) unless content.empty?
-
-  content = Nokogiri::XML note
-            .children
-            .search('content')
-            .first
-            .search('en-note').first.children.to_html
+  return first(note) unless first(note).nil?
+  content = Nokogiri::XML noten
+    .children
+    .search('content')
+    .first
+    .search('en-note').first.children.to_html
 
   ReverseMarkdown.convert content
 end
