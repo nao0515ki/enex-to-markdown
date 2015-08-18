@@ -1,0 +1,5 @@
+AllCops:
+  RunRailsCops: false
+
+Style/MultilineOperationIndentation:
+  EnforcedStyle: indented

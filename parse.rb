@@ -3,47 +3,57 @@ require 'reverse_markdown'
 require 'date'
 require 'pry'
 
-def parse
-  file = './notes.enex'
-  parsed = Nokogiri::XML File.read file
+def first(note)
+  Nokogiri::XML(
+                note.children.search('content').first
+  ).xpath('//div')
+end
 
-  notes = parsed.xpath '//note'
+def content(note)
+  content = first(note)
+  return ReverseMarkdown.convert(content.last.to_html) unless content.empty?
 
-  notes.map do |note|
-    title = note.children.search('title').first.content
-    content = note.children.search('content').first
-    content = Nokogiri::XML(content.content).xpath('//div')
-    if content.empty?
-      content = note.children.search('content').first
-      content = Nokogiri::XML content.content
-      content = ReverseMarkdown.convert content.search('en-note').first.children.to_html
-    else
-      content = ReverseMarkdown.convert content.last.to_html
-    end
+  content = Nokogiri::XML note
+            .children
+            .search('content')
+            .first
+            .search('en-note').first.children.to_html
 
-    tags = note.children.search('tag').map(&:content)
-    time = note.children.search('created').first.content
-    time = DateTime.parse
+  ReverseMarkdown.convert content
+end
 
-    source = note.search('note-attributes').first.search('source-url')
-    source = source.first.content unless source.empty?
+def source(note)
+  source = note.search('note-attributes').first.search('source-url')
+  return source.first.content unless source.empty?
+end
 
-    content = <<-END
+def parts(note)
+  [
+    note.children.search('title').first.content,
+    content(note),
+    note.children.search('tag').map(&:content),
+    DateTime.parse(note.children.search('created').first.content),
+    source(note)
+  ]
+end
+
+def parse(file = './notes.enex')
+  Nokogiri::XML File.read(file)..xpath('//note').map do |note|
+    title, content, tags, time, source = parts(note)
+    { title: title, note: note, content: <<-END
 #{title}
 ====================
 Created At: #{time}
 URL: #{source}
 Tags: #{tags.join ','}
-
 #{content}
 END
-
-    { title: title, content: content, note: note }
+    }
   end
 end
 
 def output_note(note)
-  title = note[:title].gsub '/', "__"
+  title = note[:title].gsub '/', '__'
   title = title[0..50] if title.length > 100
   file = "./notes/#{title}.txt"
   File.open(file, 'w') do |f|
