@@ -77,7 +77,7 @@ def run
 
   notes.each do |note|
     output_note note
-    delete note[:title]
+    # delete note[:title]
   end
   puts 'All done migrating notes.'
 end
