@@ -13,13 +13,10 @@ end
 
 def content(note)
   return first(note) unless first(note).nil?
-  content = Nokogiri::XML noten
-    .children
-    .search('content')
-    .first
-    .search('en-note').first.children.to_html
+  content = Nokogiri::XML(note.search('content').to_html)
+    .search('en-note').first
 
-  ReverseMarkdown.convert content
+  ReverseMarkdown.convert(content.children.to_html) unless content.nil?
 end
 
 def source(note)
@@ -38,14 +35,16 @@ def parts(note)
 end
 
 def parse(file = './notes.enex')
-  Nokogiri::XML File.read(file)..xpath('//note').map do |note|
+  Nokogiri::XML(File.read(file)).xpath('//note').map do |note|
     title, content, tags, time, source = parts(note)
     { title: title, note: note, content: <<-END
 #{title}
 ====================
-Created At: #{time}
-URL: #{source}
-Tags: #{tags.join ','}
+
+* Created At: #{time}
+* URL: #{source}
+* Tags: #{tags.join ','}
+
 #{content}
 END
     }
