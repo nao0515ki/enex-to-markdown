@@ -15,9 +15,10 @@ def parse
     content = Nokogiri::XML(content.content).xpath('//div')
     if content.empty?
       content = note.children.search('content').first
-      content = Nokogiri::XML(content.content).content
+      content = Nokogiri::XML content.content
+      content = ReverseMarkdown.convert content.search('en-note').first.children.to_html
     else
-      content = content.last.content
+      content = ReverseMarkdown.convert content.last.to_html
     end
 
     tags = note.children.search('tag').map(&:content)
