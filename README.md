@@ -12,5 +12,6 @@ This script converts that enex to a directory of markdown formatted notes.
 * `bundle install`
 * put your export notes file in a file named 'notes.enex'
 * `ruby parse.rb`
+  * if you use [Notable](https://github.com/notable/notable), `ruby parse_to_notable.rb`
 
 That's it! Your notes will show up in the 'notes' folder.
