@@ -43,7 +43,12 @@ end
 
 def parse(file = './notes.enex')
   Nokogiri::XML(File.read(file)).xpath('//note').map do |note|
-    title, content, tags, created, updated, source = parts(note)
+    begin
+      title, content, tags, created, updated, source = parts(note)
+    rescue => error
+      puts "XML PARSE ERROR: #{note}"
+      next
+    end
     { title: title, note: note, content: <<-END
 ---
 tags: [#{tags.join ','}]
@@ -61,11 +66,15 @@ END
 end
 
 def output_note(note)
-  title = note[:title].gsub '/', '__'
-  title = title[0..50] if title.length > 100
-  file = "./notes/#{title}.txt"
-  File.open(file, 'w') do |f|
-    f.write note[:content]
+  begin
+    title = note[:title].gsub '/', '__'
+    title = title[0..50] if title.length > 100
+    file = "./notes/#{title}.md"
+    File.open(file, 'w') do |f|
+      f.write note[:content]
+    end
+  rescue => error
+    puts "OUTPUT ERROR: Cannot create '#{file}' from #{note}"
   end
 end
 
